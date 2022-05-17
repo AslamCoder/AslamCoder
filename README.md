@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java script
 - 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me camuhammedaslam@gmail.com   or    @cadrtz on instagram
+- 📫 How to reach me camuhammedaslam@gmail.com   or    @cadrtz instagram
 
 <!---
 AslamCoder/AslamCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
